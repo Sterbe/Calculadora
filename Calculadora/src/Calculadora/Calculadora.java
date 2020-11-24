@@ -2,8 +2,12 @@ package Calculadora;
 
 import java.awt.*;
 import java.awt.event.*;
-
 import javax.swing.*;
+
+/* 
+   Rodrigo Lazo
+   Inapap, sede La Serena
+*/
 
 public class Calculadora {
 	public static void main(String[] args) {
